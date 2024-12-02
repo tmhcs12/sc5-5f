@@ -18,4 +18,4 @@ jobs:
 
       - name: Run Python script over SSH
         run: |
-          sshpass -p "Chomulal123" ssh -o StrictHostKeyChecking=no esteemed-potato-pur@mnz.domcloud.co 'cd public_html/python && python -u py5.py'
+          sshpass -p "1Igde5ERoS4fZ8_1++" ssh -o StrictHostKeyChecking=no tinted-manager-lok@mnz.domcloud.co 'cd public_html/python && python -u py5.py'
